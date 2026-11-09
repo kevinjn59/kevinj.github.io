@@ -118,4 +118,42 @@ footer {
     text-align: center;
     padding: 20px 0;
     font-size: 0.9rem;
+}/* Privacy Policy Page Styles */
+.privacy-content {
+    padding: 60px 0;
+    background: #ffffff;
+}
+
+.privacy-content h2 {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    color: #111;
+}
+
+.last-updated {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 30px;
+}
+
+.privacy-content h3 {
+    font-size: 1.3rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #222;
+}
+
+.privacy-content p, 
+.privacy-content ul {
+    color: #555;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+.privacy-content ul {
+    padding-left: 20px;
+}
+
+.privacy-content li {
+    margin-bottom: 8px;
 }
